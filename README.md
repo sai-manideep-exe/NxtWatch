@@ -20,8 +20,11 @@ A sleek YouTube clone built using React, offering theme toggling, JWT authentica
 - **Bootstrap**
 - **Context API**
 
-
-https://assets.ccbp.in/frontend/content/react-js/nxt-watch-output.mp4
+</br>
+<div>
+  <img src="https://assets.ccbp.in/frontend/content/react-js/nxt-watch-output.mp4"/>
+</div>
+</br>
 
 
 ## 🔗 Live Demo
